@@ -1,3 +1,4 @@
+<img width="1512" height="982" alt="Screenshot 2026-11-12 at 5 58 29 PM" src="https://github.com/user-attachments/assets/11e29f2b-7c82-418d-979c-d04b44c1b1c9" />
 # ai-gateway
 White Label our ai gateway
 
